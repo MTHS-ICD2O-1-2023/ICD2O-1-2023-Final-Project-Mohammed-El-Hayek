@@ -1,7 +1,7 @@
-// Copyright (c) 2023 Osamah Hasan All rights reserved
+// Copyright (c) 2024 Mohammed All rights reserved
 //
-// Created by: Osamah Hasan
-// Created on: Jun 2023
+// Created by: Mohammed
+// Created on: Jun 2024
 // This file contains the JS functions for index.html
 
 const tiles = document.querySelectorAll(".tile");
